@@ -5,4 +5,6 @@ def add_numbers(x, y):
 
 cislo = add_numbers(2, 3)
 
-print(cislo)
+cislo2 = add_numbers(3, 3)
+
+print(cislo2)
